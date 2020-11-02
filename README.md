@@ -1,8 +1,10 @@
-psycopg2: PostgreSQL database adapter for the Python programming language
+psycopg2
 =======================================
 
+PostgreSQL database adapter for the Python programming language</br></br></br>
 
-<p style="text-align:center">
+
+<p style="text-align: center;">
   <img src="https://avatars1.githubusercontent.com/u/2947270?s=200&v=4" height="100" />
   <img src=".vscode/equal.png" height="70" />
   <img src=".vscode/python.png" height="100" />
