@@ -43,16 +43,15 @@ Contents
 ------------
 
 - intro to psycopg2
-- Join.ipynb
-- csv_to_psql
-- Trigger.ipynb
-- View.ipynb
-- config.py
-- csv_to_psql.ipynb
-- hstore.ipynb
-- injection.ipynb
-- json.ipynb
-- pattern_matching.ipynb
 - postgreSQL.sql
+- Join.ipynb: how to join multiple tables
+- Trigger.ipynb: create trigger for updating sales log whenever insert or update or delete happens in ppl_cpu_purchases table
+- View.ipynb: create view
+- config.py
+- csv_to_psql.ipynb: read csv file and insert into postgreSQL database
+- hstore.ipynb: 
+- injection.ipynb
+- json.ipynb: read json data and insert into posetgreSQL database
+- pattern_matching.ipynb: fizzy
 
 
